@@ -32,7 +32,6 @@ colors=["red","orange","yellow",a]
 for x in colors:
     color(x)
     forward(40)
-
 mainloop()
         
     
